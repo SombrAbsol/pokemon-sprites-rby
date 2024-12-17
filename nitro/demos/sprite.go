@@ -8,8 +8,8 @@ import (
 	"image/color"
 	"os"
 
-	"github.com/magical/png"
-	"github.com/magical/sprites/nitro"
+	"github.com/SombrAbsol/pokemon-sprites-rby/png"
+	"github.com/SombrAbsol/pokemon-sprites-rby/sprites/nitro"
 )
 
 var _ = fmt.Println

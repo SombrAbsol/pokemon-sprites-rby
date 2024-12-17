@@ -17,7 +17,7 @@ import (
 	"image/color"
 	"image/draw"
 
-	"github.com/magical/png"
+	"github.com/SombrAbsol/pokemon-sprites-rby/png"
 )
 
 /*

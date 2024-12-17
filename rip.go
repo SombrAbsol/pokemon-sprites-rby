@@ -16,8 +16,8 @@ import (
 	"runtime/pprof"
 	"strconv"
 
-	"github.com/magical/png"
-	"github.com/magical/sprites"
+	"github.com/SombrAbsol/pokemon-sprites-rby/png"
+	"github.com/SombrAbsol/pokemon-sprites-rby/sprites"
 )
 
 var (

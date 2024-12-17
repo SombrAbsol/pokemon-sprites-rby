@@ -10,7 +10,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/magical/sprites/nitro"
+	"github.com/SombrAbsol/pokemon-sprites-rby/sprites/nitro"
 )
 
 func die(v interface{}) {
