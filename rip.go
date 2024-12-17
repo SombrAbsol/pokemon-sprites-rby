@@ -17,7 +17,7 @@ import (
 	"strconv"
 
 	"github.com/SombrAbsol/pokemon-sprites-rby/png"
-	"github.com/SombrAbsol/pokemon-sprites-rby/sprites"
+	"github.com/SombrAbsol/pokemon-sprites-rby/sprites/gsc"
 )
 
 var (
