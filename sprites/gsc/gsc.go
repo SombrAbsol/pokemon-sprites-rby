@@ -1,5 +1,5 @@
 /* Pokemon Gold/Silver/Crystal sprite ripper. */
-package sprites
+package gsc
 
 import (
 	"bufio"
